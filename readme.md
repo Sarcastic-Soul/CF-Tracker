@@ -52,18 +52,10 @@
 
 ## ScreenShots
 
-## ScreenShots
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="flex-shrink: 0;">
-    <img src="/assets/screenshots/contests.png" alt="Contests Screenshot" width="400"/>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="/assets/screenshots/practice.png" alt="Practice Screenshot" width="400"/>
-  </div>
-  <div style="flex-shrink: 0; margin-left: auto; margin-right: auto;">
-    <img src="/assets/screenshots/settings.png" alt="Settings Screenshot" width="400"/>
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="/assets/screenshots/contests.png" alt="Contests Screenshot" width="400"/>
+  <img src="/assets/screenshots/practice.png" alt="Practice Screenshot" width="400"/>
+  <img src="/assets/screenshots/settings.png" alt="Settings Screenshot" width="400"/>
 </div>
 
 ---
