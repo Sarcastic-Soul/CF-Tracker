@@ -162,18 +162,18 @@ button.delete:hover {
 .tabs button {
     flex: 1;
     padding: 10px;
+    margin: 5px;
     cursor: pointer;
     background: #15616d;
     color: white;
     border: none;
-    border-radius: 4px 4px 0 0;
+    border-radius: 4px;
     border-bottom: 2px solid transparent;
     transition: background-color 0.3s ease;
 }
 
 .tabs button.active {
     background: #fff;
-    border-bottom: 2px solid #15616d;
     color: #15616d;
 }
 

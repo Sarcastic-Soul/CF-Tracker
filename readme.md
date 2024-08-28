@@ -52,9 +52,10 @@
 
 ## ScreenShots
 
-![Alt text](/assets/screenshots/contests.png)
-![Alt text](/assets/screenshots/practice.png)
-![Alt text](/assets/screenshots/setting.png)
+<img src="/assets/screenshots/contests.png" alt="Contests Screenshot" width="400"/>
+<img src="/assets/screenshots/practice.png" alt="Practice Screenshot" width="400"/>
+<img src="/assets/screenshots/setting.png" alt="Settings Screenshot" width="400"/>
+
 ---
 
 ## Usage

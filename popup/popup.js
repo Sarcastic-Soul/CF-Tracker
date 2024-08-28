@@ -370,6 +370,12 @@ document.addEventListener('DOMContentLoaded', () => {
             problemsContent.classList.remove('active');
             contestsContent.classList.remove('active');
             filterContainer.classList.add('hidden');
+            document.addEventListener('keydown', function (event) {
+                if (event.key === 'Enter') {
+                    addUser();
+                }
+            });
+
             loadFriendSettingsList();
         }
     }
