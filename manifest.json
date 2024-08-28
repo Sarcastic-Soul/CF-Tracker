@@ -4,11 +4,21 @@
   "version": "1.0",
   "description": "Track your friends' progress on Codeforces and gamify the experience.",
   "permissions": ["storage", "activeTab", "scripting"],
+  "icons": {
+    "16": "assets/icon/icon-16.png",
+    "32": "assets/icon/icon-32.png",
+    "48": "assets/icon/icon-48.png",
+    "64": "assets/icon/icon-64.png",
+    "128": "assets/icon/icon-128.png",
+    "256": "assets/icon/icon-256.png",
+    "512": "assets/icon/icon-512.png"
+  },
   "action": {
     "default_popup": "popup/popup.html",
-    "default_icon": "assets/icon.png"
-  },
-  "icons": {
-    "128": "assets/icon.png"
+    "default_icon": {
+      "16": "assets/icon/icon-16.png",
+      "32": "assets/icon/icon-32.png",
+      "48": "assets/icon/icon-48.png"
+    }
   }
 }
